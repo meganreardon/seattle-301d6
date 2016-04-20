@@ -14,7 +14,6 @@ Look through the TODOs, which signify areas of the code with varying levels of c
 There is no portfolio assignment.
 
 ## User Stories: Stretch Goals
- - As an author, I want to load an existing article in the editor with a special URL (editor/articles.html?id=42), so that I can see each component in a form.
  - As an author, I want to save and export my edits to existing articles, so that my changes persist.
  - As an author, I want an admin mode with an edit link on each article (index.html?admin=password).
  - As an author, I want to have draft posts, so that I can save my writing without publishing.
